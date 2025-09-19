@@ -1,2 +1,2 @@
 # tmp
-Slider for template meta programming
+Slides for template meta programming
